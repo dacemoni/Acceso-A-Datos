@@ -4,30 +4,15 @@ Repositorio creado por David César Moro Nieto
 
 Repositorio en: https://github.com/dacemoni/Acceso-A-Datos
 
-## Ficheros
+## Pokemon
 ### Objetivos
-Desarrollar una aplicación que almacene datos en un fichero.
-
-### Enunciado
-Se debe implementar una aplicación que gestione información almacenándola y recuperándola de fichero. Se pensará en un supuesto real en el que exista un tipo de objeto y se creará la aplicación para gestionarlo.
-
-## BaseDeDatosRelacional
+Proyecto de gestión de datos (CRUD) utilizando ficheros (HashMap)
+## PokemonSQL
 ### Objetivos
-Desarrollar una aplicación que conecta con una Base de Datos Relacional.
-
-### Enunciado
-Siguiendo el mismo diseño de la aplicación de las práctica 1.1, se deberá implementar una aplicación que conecte con una Base de Datos en MySQL.
-
-## DatosHibernate
+Proyecto de gestión de datos (CRUD) utilizando JDBC con MySQL 8
+## EjemploHibernate
 ### Objetivos
-Desarrollar una aplicación que conecta con una Base de Datos Relacional utilizando Hibernate.
-
-### Enunciado
-Siguiendo el mismo diseño de la aplicación de las práctica 1.1 y 2.1, se deberá implementar una aplicación que conecte con una Base de Datos en MySQL, y utilizando Hibernate.
-
-## MongoDB
+Desarrollar una aplicación que conecta con una Base de Datos Relacional utilizando Hibernate
+## GestionMongoDB
 ### Objetivos
-Desarrollar una aplicación con una base de datos NoSQL (MongoDB).
-
-### Enunciado
-Siguiendo el mismo diseño de la aplicación de las práctica 1.1, 2.1 y 3.1, se deberá implementar una aplicación que conecte con una base de datos NoSQL (MongoDB).
+Aplicación Java de gestión utilizando MongoDB como base de datos
